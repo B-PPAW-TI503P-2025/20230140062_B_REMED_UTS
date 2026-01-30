@@ -1,11 +1,10 @@
 Instruksi Instalasi dan Menjalankan Aplikasi
 
 Clone Repositori:
-git clone <url-repository-organisasi>
-cd <nama-folder-kalian>
+git clone repositori ini dan masuk ke direktori folder yang ingin kalian gunakan
 
 Instal Dependensi:
-npm install
+ketik npm install untuk menginstall library yang diperlukan untuk JS
 
 Konfigurasi Database:
 Buat database baru di MySQL Workbench bernama library_remedial_db.
